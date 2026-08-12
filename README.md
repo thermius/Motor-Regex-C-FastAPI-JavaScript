@@ -145,11 +145,3 @@ thermius@arch:
 Este projeto é disponibilizado exclusivamente para fins de portfólio e demonstração técnica. O código-fonte não pode ser copiado, redistribuído, modificado ou utilizado, integral ou parcialmente, sem autorização prévia e explícita do autor.
 
 
-
-
-
-
-
-
-
-Motor-Regex-C-FastAPI-JavaScript
