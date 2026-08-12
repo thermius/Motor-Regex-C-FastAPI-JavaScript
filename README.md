@@ -119,7 +119,7 @@ A API estará disponível em:
 http://127.0.0.1:8000
 ```
 
-#### 4. Execute o index.html no navegador
+### 4. Execute o index.html 
 
 ## 🧹 Gerenciamento eficiente de memória com Valgrind
 
